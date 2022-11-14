@@ -1,0 +1,26 @@
+A:A:Who is the incumbent president of Pakistan?:Arif Ivey:Barack Obama:Xi Jinping:Mahathir Mohamad
+A:C:What is the national language of Pakistan?:Chinese:Tamil:Urdu:English
+B:D:Which of the following is the above city?:Karachi:Faisalabad:Rawalpindi:Lahore:PakistanQ3.png
+B:C:What is the name of the above landmark?:Pakistan Monument:Shalimar Gardens:Faisa Mosque:Hiran Minar:Images/Q4.png
+C:C:Which of the following is the capital city of Pakistan?:Images/Q5a.png:Images/Q5b.png:Images/Q5c.png:Images/Q5d.png
+A:B:Where is the capital city of Norway?:Dranmen:Oslo:Hamar:Bergen
+A:D:When can we see northern lights(aurora) in Norway?:January to March:March to May:June to August:September to December
+B:A:What is this landmark called?:Statoil Buildings:Skagenkaien:Oslo City Hall:Movik Fort:Images/Q8.png
+C:A:Who is the Prime Minister of Norway:Images/Q9a.png:Images/Q9b.png:Images/Q9c.png:Images/Q9d.png
+C:B:Which is the flag of Norway?:Images/Q10a.png:Images/Q10b.png:Images/Q10c.png:Images/Q10d.png
+A:A:Where is Panama located?:North America:East America:Australia:South America
+C:A:Who is the current president of Panama?:Images/Q12a.png:Images/Q12b.png:Images/Q12c.png:Images/Q12d.png
+B:B:What is the name of the city?:New York:Panama City:Dhaka:Toronto:Images/Q13.png
+B:A:What is the name of this landmark?:Panama Viejo:Guna Yala:San Lorenzo Colonial Fort:Casco Vejo:Images/Q14.png
+C:B:Which of the following is the capital city of Panama?:Images/Q15a.png:Images/Q15b.png:Images/Q15c.png:Images/Q15d.png
+A:C:Which of the following is the capital city of Oman?:Doha:Abu Dhabi:Muscat:Ulaanbaatar
+A:A:Which of the following is the top-selling beverage in Oman?:Mountain Dew:Coca-Cola:Sprite:100 Plus
+B:B:What is the name of this building?:Masjid AI-Haram:Sultan Qaboss Grand Mosque:Crystal Mosque:Sheikh Zayed Mosque:Images/Q18.png
+C:B:Which of the following is the flag of Oman?:Images/Q19a.png:Images/Q19b.png:Images/Q19c.png:Images/Q19d.png
+C:A:Which of the following cities is in Oman?:Images/Q20a.png:Images/Q20b.png:Images/Q20c.png:Images/Q20d.png
+A:D:Which of the following is NOT on the 100 Kina note?:Plane:Radio Tower:Truck:Train Stattion
+C:A:Which of the following is the national animal of PG?:Images/Q22a.png:Images/Q22b.png:Images/Q22c.png:Images/Q22d.png
+A:A:Which country does PG border?:Indonesia:Australia:Is an island , not bordering any countries:Philippines 
+B:B:What does the yellow symbol on the flag of PG represent?:Tenacity:Freedom:Sacred Culture:None of the above:Images/Q24.png
+B:C:What is the below tribe called?:Huli:Morkai:Wiru:Gadsup:Images/Q25.png
+
